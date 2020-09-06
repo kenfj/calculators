@@ -1,0 +1,3 @@
+[submodule "calculator-react/calculator-app"]
+	path = calculator-react/calculator-app
+	url = https://github.com/kenfj/calculator-app.git
